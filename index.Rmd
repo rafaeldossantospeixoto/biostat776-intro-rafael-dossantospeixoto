@@ -1,0 +1,33 @@
+---
+title: "About Me"
+author: "Rafael Peixoto"
+date: "9/6/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introducing myself
+I was born and raised in Brazil. During middle and high school, I participated in many science competitions, which ignited my interest in STEM and motivated me to pursue this career. So, I started my undergrad studying mechanical engineering, but I fell in love with computer science and switched my major to control and automation engineering. During my research in biomedical engineering, I learned that I could use my knowledge to bring an impact on society. Motivated by my desire to help others and my passion for research, now I am a first-year biomedical engineering Ph.D. student at Johns Hopkins University.  
+
+## Research Interests
+During my Ph.D., I want to work with computational science, but also understand more about the biology behind the code and make an impact in society.
+
+1. Developing computational methods for understanding multi-omics data, especially spatially resolved transcriptomics and single-cell RNA sequencing.
+2. Extracting relevant information from tissue images.
+
+## Other Interests
+I consider myself an eclectic person, so I am interested in a lot of things, but here are three of them: 
+
+1. Traveling.
+2. Sports (Palmeiras).
+3. Trying new things!
+
+## Fun Facts
+1. I was once in my university's choir.
+2. I have made beer and wine.
+3. I am not good at soccer (but this does not mean I am not playing).
+4. I did a high school exchange in south Florida during my senior year.
+5. I am a Rotarian.
